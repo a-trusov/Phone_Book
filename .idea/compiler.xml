@@ -28,6 +28,12 @@
       <module name="Phone_Book.Problems-Interval" target="1.8" />
       <module name="Phone_Book.Problems-Interval.main" target="1.8" />
       <module name="Phone_Book.Problems-Interval.test" target="1.8" />
+      <module name="Phone_Book.Problems-Is_it_here_" target="1.8" />
+      <module name="Phone_Book.Problems-Is_it_here_.main" target="1.8" />
+      <module name="Phone_Book.Problems-Is_it_here_.test" target="1.8" />
+      <module name="Phone_Book.Problems-Just_checking" target="1.8" />
+      <module name="Phone_Book.Problems-Just_checking.main" target="1.8" />
+      <module name="Phone_Book.Problems-Just_checking.test" target="1.8" />
       <module name="Phone_Book.Problems-Kotlin_x5" target="1.8" />
       <module name="Phone_Book.Problems-Kotlin_x5.main" target="1.8" />
       <module name="Phone_Book.Problems-Kotlin_x5.test" target="1.8" />
