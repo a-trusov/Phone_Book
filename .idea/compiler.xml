@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Phone_Book-task_main" target="1.8" />
+      <module name="Phone_Book-task_test" target="1.8" />
+      <module name="Phone_Book.Phone_Book-task" target="1.8" />
+      <module name="Phone_Book.Phone_Book-task.main" target="1.8" />
+      <module name="Phone_Book.Phone_Book-task.test" target="1.8" />
+      <module name="Phone_Book.Problems-Check_the_order" target="1.8" />
+      <module name="Phone_Book.Problems-Check_the_order.main" target="1.8" />
+      <module name="Phone_Book.Problems-Check_the_order.test" target="1.8" />
+      <module name="Phone_Book.Problems-Fizz_Buzz" target="1.8" />
+      <module name="Phone_Book.Problems-Fizz_Buzz.main" target="1.8" />
+      <module name="Phone_Book.Problems-Fizz_Buzz.test" target="1.8" />
+      <module name="Phone_Book.Problems-Grades" target="1.8" />
+      <module name="Phone_Book.Problems-Grades.main" target="1.8" />
+      <module name="Phone_Book.Problems-Grades.test" target="1.8" />
+      <module name="Phone_Book.Problems-Initializing_an_array" target="1.8" />
+      <module name="Phone_Book.Problems-Initializing_an_array.main" target="1.8" />
+      <module name="Phone_Book.Problems-Initializing_an_array.test" target="1.8" />
+      <module name="Phone_Book.Problems-Initializing_an_array_of_integers" target="1.8" />
+      <module name="Phone_Book.Problems-Initializing_an_array_of_integers.main" target="1.8" />
+      <module name="Phone_Book.Problems-Initializing_an_array_of_integers.test" target="1.8" />
+      <module name="Phone_Book.Problems-Initializing_an_array_of_longs" target="1.8" />
+      <module name="Phone_Book.Problems-Initializing_an_array_of_longs.main" target="1.8" />
+      <module name="Phone_Book.Problems-Initializing_an_array_of_longs.test" target="1.8" />
+      <module name="Phone_Book.Problems-Interval" target="1.8" />
+      <module name="Phone_Book.Problems-Interval.main" target="1.8" />
+      <module name="Phone_Book.Problems-Interval.test" target="1.8" />
+      <module name="Phone_Book.Problems-Kotlin_x5" target="1.8" />
+      <module name="Phone_Book.Problems-Kotlin_x5.main" target="1.8" />
+      <module name="Phone_Book.Problems-Kotlin_x5.test" target="1.8" />
+      <module name="Phone_Book.Problems-Number_dividers" target="1.8" />
+      <module name="Phone_Book.Problems-Number_dividers.main" target="1.8" />
+      <module name="Phone_Book.Problems-Number_dividers.test" target="1.8" />
+      <module name="Phone_Book.Problems-Printing_only_the_longest_line" target="1.8" />
+      <module name="Phone_Book.Problems-Printing_only_the_longest_line.main" target="1.8" />
+      <module name="Phone_Book.Problems-Printing_only_the_longest_line.test" target="1.8" />
+      <module name="Phone_Book.Problems-Reversing_a_number" target="1.8" />
+      <module name="Phone_Book.Problems-Reversing_a_number.main" target="1.8" />
+      <module name="Phone_Book.Problems-Reversing_a_number.test" target="1.8" />
+      <module name="Phone_Book.Problems-Size_of_parts" target="1.8" />
+      <module name="Phone_Book.Problems-Size_of_parts.main" target="1.8" />
+      <module name="Phone_Book.Problems-Size_of_parts.test" target="1.8" />
+      <module name="Phone_Book.Problems-Strings_as_objects" target="1.8" />
+      <module name="Phone_Book.Problems-Strings_as_objects.main" target="1.8" />
+      <module name="Phone_Book.Problems-Strings_as_objects.test" target="1.8" />
+      <module name="Phone_Book.Problems-The_forgotten_comments" target="1.8" />
+      <module name="Phone_Book.Problems-The_forgotten_comments.main" target="1.8" />
+      <module name="Phone_Book.Problems-The_forgotten_comments.test" target="1.8" />
+      <module name="Phone_Book.Problems-The_max_of_two_numbers_without_else-branch" target="1.8" />
+      <module name="Phone_Book.Problems-The_max_of_two_numbers_without_else-branch.main" target="1.8" />
+      <module name="Phone_Book.Problems-The_max_of_two_numbers_without_else-branch.test" target="1.8" />
+      <module name="Phone_Book.Problems-The_minimum_value_of_N_numbers" target="1.8" />
+      <module name="Phone_Book.Problems-The_minimum_value_of_N_numbers.main" target="1.8" />
+      <module name="Phone_Book.Problems-The_minimum_value_of_N_numbers.test" target="1.8" />
+      <module name="Phone_Book.Problems-Uncomment_a_line" target="1.8" />
+      <module name="Phone_Book.Problems-Uncomment_a_line.main" target="1.8" />
+      <module name="Phone_Book.Problems-Uncomment_a_line.test" target="1.8" />
+      <module name="Phone_Book.Problems-We_need_to_learn_Kotlin" target="1.8" />
+      <module name="Phone_Book.Problems-We_need_to_learn_Kotlin.main" target="1.8" />
+      <module name="Phone_Book.Problems-We_need_to_learn_Kotlin.test" target="1.8" />
+      <module name="Phone_Book.util" target="1.8" />
+      <module name="Phone_Book.util.main" target="1.8" />
+      <module name="Phone_Book.util.test" target="1.8" />
+      <module name="util_main" target="1.8" />
+      <module name="util_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
