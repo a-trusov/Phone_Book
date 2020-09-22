@@ -11,7 +11,7 @@ fun main() {
     val entriesFileName = """C:\Users\user\Downloads\find.txt"""
     val entries = File(entriesFileName).readLines()
 
-    println("Start searching...")
+    println("Start searching (linear search)...")
     val start = System.currentTimeMillis()
     var foundEntries = 0;
 
@@ -23,7 +23,6 @@ fun main() {
     val stop = System.currentTimeMillis()
     val timeTaken = getDisplayValue(stop - start) //116328
     println("Found ${foundEntries} / ${entries.size} entries. Time taken: ${timeTaken}")
-//    println("Found 500 / 500 entries. Time taken: 1 min. 56 sec. 328 ms.")
 }
 
 fun searchByName(phoneBook: List<String>, name: String):String {
